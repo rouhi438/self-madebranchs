@@ -3,3 +3,14 @@
     padding: 0;
     box-sizing: border-box;
 }
+div{
+    background-color: aqua;
+    height: 120px;
+    width: 350px;
+    border-radius: 20px;
+}
+h1{
+    color: greenyellow;
+    font-size: 25px;
+    font-family: serif;
+}
