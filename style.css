@@ -14,3 +14,8 @@ h1{
     font-size: 25px;
     font-family: serif;
 }
+img{
+    height: 400px;
+    width: 450px;
+    background-color: lightsalmon;
+}
